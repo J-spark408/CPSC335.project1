@@ -1,1 +1,4 @@
-# CPSC335.project1
+# CPSC335 Project1
+# Group Members:
+# John Park
+# Alex Ha
